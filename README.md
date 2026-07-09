@@ -28,4 +28,4 @@ Dentro de cada projeto, você encontrará a documentação completa explicando o
 Sinta-se à vontade para explorar os códigos e painéis. Caso queira conversar sobre dados, automação ou oportunidades, entre em contato:
 
 *   **[LinkedIn](https://www.linkedin.com/in/joão-victor-aa5213266/)**
-*   **E-mail:** joaovictr204@gmail.com
+*   **[E-mail:](mailto:joaovictr204@gmail.com)**
