@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio de projetos! Este repositório centraliza meus desenvolvimentos e estudos práticos nas áreas de Análise de Dados, Business Intelligence e Machine Learning. 
 
 ## 👨‍💻 Sobre Mim
-Sou estudante do 7º semestre de Ciência da Computação e atuo há mais de dois anos focando em Dados e Business Intelligence no setor financeiro. Minha atuação é fortemente orientada a resultados, buscando sempre a otimização de tempo e o ganho de eficiência através da automação de processos de ingestão de dados e da criação de dashboards executivos. 
+Sou estudante do 8º semestre de Ciência da Computação e atuo há mais de dois anos focando em Dados e Business Intelligence no setor financeiro. Minha atuação é fortemente orientada a resultados, buscando sempre a otimização de tempo e o ganho de eficiência através da automação de processos de ingestão de dados e da criação de dashboards executivos. 
 
 **Principais Habilidades e Ferramentas:**
 *   **Business Intelligence:** Power BI (DAX, Power Query/Linguagem M), Databricks, Power Automate.
